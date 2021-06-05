@@ -36,7 +36,7 @@ public class Digit_frequency {
 		
 		int num = input.nextInt();
 		
-		System.out.println("Freq of intered number "+freq.get(num)); 
+		System.out.println("Freq of intered number "+freq.get(num));  
 		
 		
 
