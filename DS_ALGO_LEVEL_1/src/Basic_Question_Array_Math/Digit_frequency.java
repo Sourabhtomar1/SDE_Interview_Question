@@ -1,3 +1,4 @@
+package Basic_Question_Array_Math;
 import java.util.HashMap;
 import java.util.Scanner;
 
